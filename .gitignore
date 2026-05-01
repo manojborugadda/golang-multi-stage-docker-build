@@ -1,0 +1,37 @@
+# Binaries
+/app
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output files
+*.out
+
+# Vendor
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Go build cache
+bin/
+
+# Docker
+docker-compose.override.yml
+
+# Node/npm
+node_modules/
+
+# Others
+*.log
