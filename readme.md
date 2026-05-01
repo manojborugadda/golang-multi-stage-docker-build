@@ -18,14 +18,13 @@ This project demonstrates the benefits of using multi-stage Docker builds combin
 
 # without multi-stage docker build
 
-
-![alt text](image.png)
+![alt text](image-1.png)
 
 image size is 994 MB
 
 # with multi-stage docker build + distroless image
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 image size is 3.18 MB
 
